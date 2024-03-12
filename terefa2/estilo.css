@@ -1,0 +1,57 @@
+table{
+    border-collapse: collapse;
+    border-radius: 50px;
+
+}
+td,th{
+    padding: 30px;
+    border: 1px solid black;
+}
+#FIVEM{
+background-color: rgb(255, 123, 0);
+font-style: italic;
+color: aliceblue;
+}
+#ROBLOX{
+    background-color: rgb(27, 27, 27);
+    font-style: italic;
+    color: rgb(100, 114, 126);
+}
+#FREEFIRE{
+    font-style: italic;
+}
+#PALWORLD{
+    background-color: rgb(88, 172, 245);
+    color: rgb(8, 245, 134);
+    font-style: italic;
+}
+#PUBG{
+background-color: rgb(14, 13, 13);
+color: rgba(244, 248, 4, 0.836);
+font-style: italic;
+}
+#REDDEAD{
+    font-style: italic;
+    color: white;
+    background-color: rgb(235, 7, 7)
+    
+}
+#MKX{
+    font-style: italic;
+    color: white;
+    background-color: rgb(19, 18, 18);
+}
+#ASSASSIN{
+    background-color: rgb(177, 227, 250);
+    color: rgb(231, 18, 18);
+}
+#WCTHDOGS{
+    font-style: italic;
+   background-color: rgb(24, 23, 23);
+    color: white
+}
+#POKEMONGO{
+    font-style: italic;
+ background-color: rgb(10, 72, 243);
+ color: rgb(247, 252, 0) 
+}
