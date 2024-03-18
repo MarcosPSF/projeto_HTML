@@ -1,0 +1,26 @@
+#menu{
+    font-style: italic;
+    margin-left: 40%;
+    
+}
+
+#OBEJETIVO{
+    font-style: italic;
+    margin-left: 40%;
+}
+
+#FORMACOES{
+    margin-left: 40%;
+    font-style: italic;
+    
+}
+
+body{
+    background-image: url(fundo3.png);
+    
+}
+#perfil{
+    float: left;
+    margin-left: 30%;
+    font-style: italic;
+}
